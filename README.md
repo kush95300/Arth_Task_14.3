@@ -15,6 +15,7 @@
 created playbook for this:
 
 - webserver_without_when.yml : PLAYBOOK to install webserver without when keyword in playbook.
+- remove_webservers.yml : PLAYBOOK to delete webserver without when keyword in playbook.
 - Redhat-8.0.yml     :  CONTAINS Redhat related variable 
 - Ubuntu-20.04.yml   :  CONTAINS Ubuntu related variables
 - Amazon-2.yml   :  CONTAINS Amazon-linux related variables
